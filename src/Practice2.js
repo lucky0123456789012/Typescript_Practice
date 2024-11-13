@@ -26,4 +26,3 @@ console.log(Man);
 */
 
 //Create buttton using Javascriot Event Handling
-// Create a button element
